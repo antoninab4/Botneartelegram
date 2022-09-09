@@ -1,13 +1,13 @@
 # Botneartelegram
 This script was created to Notify Near Validators about state changes in their nodes
-Created by Timur Ruziev (participant of stakewars-iii)
+Created by Aleksey Morozov
 
-You can see my challenge report here: https://github.com/ruziev-dev/near-stakewars-iii
+
 
 Installation:
 Clone repository & install dependencies
 
-git clone https://github.com/ruziev-dev/near-node-tg-bot.git
+git clone https://github.com/antoninab4/Botneartelegram
 
 cd near-node-tg-bot
 
